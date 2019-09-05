@@ -21,7 +21,7 @@ $ npm install
 ```
 
 ## 3. Run tests
-To run the tests using Firefox simply run the command:
+To run the tests using Firefox simply run the command::
 
 ```sh
 $ npm test
